@@ -1,6 +1,6 @@
 # Paginas-con-cursos-gratis-y-de-pago
 
-**~General:**
+##**~General:**
 
 https://www.udemy.com/
 
@@ -23,7 +23,7 @@ https://platzi.com/
 https://www.domestika.org/es/courses
 
 
-**~Tecnología y Ciberseguridad:**
+##**~Tecnología y Ciberseguridad:**
 
 https://plataforma.ciberaprende.com/
 
