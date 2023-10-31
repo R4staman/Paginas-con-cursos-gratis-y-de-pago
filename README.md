@@ -90,3 +90,5 @@ https://www.hackbysecurity.com/
 https://ciberpatrulla.com/academia/
 
 https://www.techtitute.com/pr/informatica
+
+https://www.itcolombia.com/eventos/
