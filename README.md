@@ -96,3 +96,14 @@ https://www.itcolombia.com/eventos/
 https://academia-ciberseguridad.com/en
 
 https://iciberseguridad.io
+
+https://explore.skillbuilder.aws/learn
+
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-data-protection-and-disaster-recovery-knowledge-badge-readiness-path
+
+https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/
+
+https://learn.microsoft.com/
+
+https://learn.microsoft.com/es-es/credentials/browse/
+
