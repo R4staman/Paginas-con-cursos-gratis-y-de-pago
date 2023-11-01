@@ -111,5 +111,7 @@ https://learn.microsoft.com/es-es/credentials/browse/
 
 https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/
 
+https://www.google.com/search?q=hotsmart+oscar+duvernay&rlz=1CACCCC_enPR973&oq=hotsmart+oscar+duvernay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiiBDIHCAIQABiiBNIBCDk3MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
 
 
