@@ -22,6 +22,8 @@ https://platzi.com/
 
 https://www.domestika.org/es/courses
 
+https://capacitateparaelempleo.org/cursos
+
 
 ##**~Tecnología y Ciberseguridad:**
 
@@ -106,4 +108,8 @@ https://learn.microsoft.com/en-us/training/paths/active-directory-domain-service
 https://learn.microsoft.com/
 
 https://learn.microsoft.com/es-es/credentials/browse/
+
+https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/
+
+
 
